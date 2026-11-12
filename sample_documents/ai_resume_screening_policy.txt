@@ -1,0 +1,22 @@
+AI RESUME SCREENING TOOL — SAMPLE POLICY
+
+Purpose
+This system helps recruiters prioritize applications. It provides recommendations and does not make final hiring decisions.
+
+Privacy and personal data
+The privacy notice explains that applicant personal data is collected for recruitment purposes. Applicants are informed about consent and data subject rights.
+
+Security
+Applicant records are protected using encryption, authentication, and role-based access control. Security controls are reviewed periodically.
+
+Transparency
+Recruiters are informed when AI is used. The system provides explainability information and discloses known limitations to users.
+
+Human oversight
+A recruiter performs human review before any employment decision. Cases can be sent for manual review and escalation.
+
+Retention
+The retention policy defines a retention period. Applicant data is deleted according to the data deletion procedure.
+
+Fairness
+The team evaluates fairness and bias across demographic groups and monitors for disparate impact.

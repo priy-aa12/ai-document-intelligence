@@ -1,0 +1,73 @@
+[
+  {
+    "id": "20261111150405182853",
+    "filename": "OS_Full_Notes.pdf",
+    "created_at": "2026-11-11T15:04:05.183389+00:00",
+    "risk_score": 100,
+    "risk_level": "High",
+    "summary": "Screening identified 6 potential gap(s) across 6 governance areas.",
+    "findings": [
+      {
+        "id": "privacy",
+        "title": "Privacy notice and personal data handling",
+        "status": "potential_gap",
+        "weight": 20,
+        "evidence": "",
+        "recommendation": "Document what personal data is collected, why it is used, the applicable lawful basis or consent, and user rights."
+      },
+      {
+        "id": "security",
+        "title": "Data security controls",
+        "status": "potential_gap",
+        "weight": 20,
+        "evidence": "",
+        "recommendation": "Specify encryption, access controls, authentication, secure storage, and incident response procedures."
+      },
+      {
+        "id": "transparency",
+        "title": "Transparency and explainability",
+        "status": "potential_gap",
+        "weight": 15,
+        "evidence": "",
+        "recommendation": "Explain when AI is used, its intended purpose, important limitations, and how decisions can be challenged."
+      },
+      {
+        "id": "human_oversight",
+        "title": "Human oversight and escalation",
+        "status": "potential_gap",
+        "weight": 15,
+        "evidence": "",
+        "recommendation": "Define when a qualified person reviews outputs, overrides decisions, and handles appeals or escalations."
+      },
+      {
+        "id": "retention",
+        "title": "Data retention and deletion",
+        "status": "potential_gap",
+        "weight": 15,
+        "evidence": "",
+        "recommendation": "Set retention periods, deletion procedures, and rules for backups and third-party processors."
+      },
+      {
+        "id": "fairness",
+        "title": "Bias and fairness evaluation",
+        "status": "potential_gap",
+        "weight": 15,
+        "evidence": "",
+        "recommendation": "Describe representative testing data, subgroup performance evaluation, bias monitoring, and mitigation."
+      }
+    ],
+    "disclaimer": "Heuristic screening only. A missing keyword does not prove a control is absent, and a matching keyword does not prove a control is effective. Human review is required.",
+    "document_id": "20261111150405182853",
+    "document_summary": {
+      "summary": "OS allocates memory to a process; multiple create process, terminate process Lec-10: Process States | Process Queues Zombie process / Defunct process process, memory, size, process priority or process type. process to be non-contiguous.",
+      "key_points": [
+        "OS allocates memory to a process; multiple",
+        "create process, terminate process",
+        "Lec-10: Process States | Process Queues",
+        "Zombie process / Defunct process",
+        "process, memory, size, process priority or process type.",
+        "process to be non-contiguous."
+      ]
+    }
+  }
+]
